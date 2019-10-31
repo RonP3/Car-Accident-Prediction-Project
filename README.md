@@ -1,2 +1,2 @@
 # Car-Accident-Prediction-Project
-Machine Learning Project
+Details are available in the report file
